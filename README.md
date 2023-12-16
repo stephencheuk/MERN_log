@@ -1,5 +1,7 @@
 # MERN_log
 
+*reference: https://www.youtube.com/watch?v=S6Yd5cPtXr4&list=PL0g02APOH8okXhOQLOLcB_nifs1U41im5*
+
 ## Initial
 ```
 npm init
@@ -40,4 +42,4 @@ app.listen(PORT, () => {
 PORT=5000
 ```
 
-## First App
+## Second App
